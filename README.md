@@ -1,2 +1,3 @@
-# GDevelop5_Examples
- Game templates made in game engine gdevelop 5
+# GDevelop5 Examples
+***
+## Game templates made in game engine **GDevelop 5**
